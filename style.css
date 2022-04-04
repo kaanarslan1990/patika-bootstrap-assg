@@ -1,0 +1,21 @@
+.nav {
+    height:65px;
+}
+
+.card-image-top {
+    width:100%;
+    height: 40rem;
+    object-fit: cover;
+    padding:0;
+}
+
+.card { 
+    margin-top:10px;
+    margin-bottom: 10px;
+    
+
+}
+
+.nav-link-custom {
+    color: white;
+}
